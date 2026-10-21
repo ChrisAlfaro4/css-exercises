@@ -3,8 +3,12 @@
   font: Verdana, De Javu Sans, sans-serif;
 }
 
+.follow-up {
+    font-size: 24px;
+}
+
 #number-2 {
-  background-color: rgb(173, 216, 230);
+  color: rgb(113, 244, 253);
   font-size: 36px;
 }
 
